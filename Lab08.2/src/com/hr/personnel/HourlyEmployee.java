@@ -1,9 +1,7 @@
 package com.hr.personnel;
-
 import java.time.LocalDate;
 
 public class HourlyEmployee extends Employee{
-
     double rate;
     double hours;
 
@@ -22,13 +20,21 @@ public class HourlyEmployee extends Employee{
     }
 
 
+    //business methods
+    @Override
+    public void pay(){
+
+        System.out.println(getName() + " is paid Salary " + rate * hours);
+
+    }
+
+
+
     @Override
     public String toString() {
-        return "HourlyEmployee " +
+        return super.toString()+
                 "rate=" + rate +
                 ", hours=" + hours +
-                ", name=" + this.getName() +
-                ", hireDate=" + this.getHireDate() +
                 " ";
     }
 }
