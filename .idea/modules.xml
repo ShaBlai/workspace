@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlarmClock/AlarmClock.iml" filepath="$PROJECT_DIR$/AlarmClock/AlarmClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise module/Exercise module.iml" filepath="$PROJECT_DIR$/Exercise module/Exercise module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterations/Iterations.iml" filepath="$PROJECT_DIR$/Iterations/Iterations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 1.1/Lab 1.1.iml" filepath="$PROJECT_DIR$/Lab 1.1/Lab 1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 2.2 Extra/Lab 2.2 Extra.iml" filepath="$PROJECT_DIR$/Lab 2.2 Extra/Lab 2.2 Extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 2.2 Extra Extra/Lab 2.2 Extra Extra.iml" filepath="$PROJECT_DIR$/Lab 2.2 Extra Extra/Lab 2.2 Extra Extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 3.1 Extra Exercise  2/Lab 3.1 Extra Exercise  2.iml" filepath="$PROJECT_DIR$/Lab 3.1 Extra Exercise  2/Lab 3.1 Extra Exercise  2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 5.3/Lab 5.3.iml" filepath="$PROJECT_DIR$/Lab 5.3/Lab 5.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab002.2/Lab002.2.iml" filepath="$PROJECT_DIR$/Lab002.2/Lab002.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab01.1/Lab01.1.iml" filepath="$PROJECT_DIR$/Lab01.1/Lab01.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab02.2/Lab02.2.iml" filepath="$PROJECT_DIR$/Lab02.2/Lab02.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05-extra/Lab05-extra.iml" filepath="$PROJECT_DIR$/Lab05-extra/Lab05-extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05.2/Lab05.2.iml" filepath="$PROJECT_DIR$/Lab05.2/Lab05.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07.1/Lab07.1.iml" filepath="$PROJECT_DIR$/Lab07.1/Lab07.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07.2/Lab07.2.iml" filepath="$PROJECT_DIR$/Lab07.2/Lab07.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07.2-Client/Lab07.2-Client.iml" filepath="$PROJECT_DIR$/Lab07.2-Client/Lab07.2-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08.1/Lab08.1.iml" filepath="$PROJECT_DIR$/Lab08.1/Lab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08.2/Lab08.2.iml" filepath="$PROJECT_DIR$/Lab08.2/Lab08.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab09.1/Lab09.1.iml" filepath="$PROJECT_DIR$/Lab09.1/Lab09.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10.1/Lab10.1.iml" filepath="$PROJECT_DIR$/Lab10.1/Lab10.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab12.1/Lab12.1.iml" filepath="$PROJECT_DIR$/Lab12.1/Lab12.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab12.2/Lab12.2.iml" filepath="$PROJECT_DIR$/Lab12.2/Lab12.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab03.1/MiniLab03.1.iml" filepath="$PROJECT_DIR$/MiniLab03.1/MiniLab03.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab05.1/MiniLab05.1.iml" filepath="$PROJECT_DIR$/MiniLab05.1/MiniLab05.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab08.1/MiniLab08.1.iml" filepath="$PROJECT_DIR$/MiniLab08.1/MiniLab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MorningExercises/MorningExercises.iml" filepath="$PROJECT_DIR$/MorningExercises/MorningExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhiteboardModel/WhiteboardModel.iml" filepath="$PROJECT_DIR$/WhiteboardModel/WhiteboardModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCountEx/WordCountEx.iml" filepath="$PROJECT_DIR$/WordCountEx/WordCountEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composition_example/composition_example.iml" filepath="$PROJECT_DIR$/composition_example/composition_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>

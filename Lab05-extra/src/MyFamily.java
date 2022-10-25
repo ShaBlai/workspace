@@ -1,0 +1,3 @@
+enum MyFamily {
+    LEXI,CASSIDY,MOM,DAD,BOO,CHESS
+}
