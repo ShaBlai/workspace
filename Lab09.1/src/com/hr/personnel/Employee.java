@@ -7,7 +7,6 @@
  */
 package com.hr.personnel;
 import gov.irs.TaxPayer;
-
 import java.time.LocalDate;
 
 /**
@@ -42,6 +41,7 @@ public abstract class Employee implements TaxPayer {
 
     public void pay(){
         System.out.println(getName() + " is paid Salary...somehow");
+        System.out.println(TaxPayer.class);
 
     }
 
@@ -65,6 +65,6 @@ public abstract class Employee implements TaxPayer {
     @Override
     public String toString() {
         return getClass().getSimpleName() + " name= " + getName() + ", hireDate=" + getHireDate();
-    }
+       }
 
 }
