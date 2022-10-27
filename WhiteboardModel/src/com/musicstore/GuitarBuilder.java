@@ -97,28 +97,21 @@ public class GuitarBuilder {
     }
 
     public String getGuitarNickname() {
-        return guitarNickname;
+        return this.guitarNickname;
     }
 
     //setter method for validating the maximum characters for a guitar's nickname
     public void setGuitarNickname(String guitarNickname) throws IllegalGuitarNicknameException {
         if (guitarNickname.length() > GUITAR_MAX_NICKNAME_LENGTH) {
             throw new IllegalGuitarNicknameException("this is not an acceptable guitar nickname length" + getGuitarNickname());
-
-             /*   this.guitarNickname = guitarNickname;
+        } else {
+            this.guitarNickname = guitarNickname;
+        }
+    }
+     /*   this.guitarNickname = guitarNickname;
         if (guitarNickname.length() > GUITAR_MAX_NICKNAME_LENGTH) {
             System.out.println("Maximum nickname length reached, please reduce to below 12 characters");
         } */
-
-
-        }
-
-    }
-
-
-
-
-
 
     public static void setGuitarCount(int guitarCount) {
         GuitarBuilder.guitarCount = guitarCount;
