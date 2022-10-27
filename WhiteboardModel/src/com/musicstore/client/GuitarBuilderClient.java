@@ -3,9 +3,9 @@ import com.musicstore.*;
 public class GuitarBuilderClient {
 
     public static void main(String[] args) {
-        //Guitar Built Item #1
-        try {
 
+        try {
+            //Guitar Built Item #1
             GuitarBuilder Guitar1 = new GuitarBuilder(GuitarType.ELECTRIC, GuitarBrands.DEAN, 6, GuitarColor.SUNBURST, "Rainmaker", Experience.EXPERIENCED_MUSICIAN);
             System.out.println(Guitar1);
             Guitar1.guitarsBuiltStatus();

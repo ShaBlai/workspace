@@ -108,6 +108,7 @@ public class GuitarBuilder {
             this.guitarNickname = guitarNickname;
         }
     }
+        //commneted out prior if statement for validating the guitar nickname
      /*   this.guitarNickname = guitarNickname;
         if (guitarNickname.length() > GUITAR_MAX_NICKNAME_LENGTH) {
             System.out.println("Maximum nickname length reached, please reduce to below 12 characters");
