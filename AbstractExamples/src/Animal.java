@@ -1,5 +1,5 @@
 public abstract class Animal {
-
+//test of the animals
     private String name;
 
     public Animal(String name) {
